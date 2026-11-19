@@ -1,0 +1,7 @@
+                                 time complexity
+Brute force checks every pair      O(n²)
+HashMap                            O(n)
+
+    HashMap trades extra space for speed.
+    the time difference is invisible for a small array of say 100 numbers but it matter when the input is say 100k
+    so.....yeah.
